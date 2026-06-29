@@ -54,7 +54,7 @@ header{
         rgba(0,0,0,.45),
         rgba(0,0,0,.45)
     ),
-    url("../images/hero.JPG");
+    url("images/hero.JPG");
 
     background-size:cover;
     background-position:center;
