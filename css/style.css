@@ -102,7 +102,7 @@ header p{
 /* ================= BUTTON ================= */
 header a{
 
-    background:#cfa13a;
+    background:#632d01;
 
     color:white;
 
@@ -118,7 +118,7 @@ header a{
 }
 
 header a:hover{
-    background:#b88f2f;
+    background:#e7953f;
 }
 
 /* ================= ABOUT SECTION ================= */
